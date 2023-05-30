@@ -1,0 +1,357 @@
+.Pasek {
+    background-color: yellow;
+    padding: 20px;
+    font-size: 20px;
+    border: 2px solid black;
+  }
+.Golf4{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.Golf4Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.G4opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.btn{
+  display:flex;
+  justify-content: center;
+  width: 50%;
+  margin-left:27%;
+}
+.PassatB4{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.PassatB4Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.PB4opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.Polo12{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.Polo12Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.P12opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AstraIII{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.AstraIIIZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.AIIIopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.Astra2010{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.Astra2010Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.A2010opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AstraST{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.AstraSTZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.ASTopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.RClioIV{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.RClioIVZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.RCIVopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.RTrafic{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.RTraficZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.RTopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.RLaguna{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.RLagunaZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.RLopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AA4{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.AA4Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.AA4opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AA6{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.AA6Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.AA6opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.AA3{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.AA3Zdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.AA3opis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.SFabia{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.SFabiaZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.SFopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.SOctavia{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.SOctaviaZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.SOopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
+.SFelicia{
+  margin-top: 50px;
+  height: 25%;
+  width: 70%;
+  margin-left:12%;
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: wheat;
+}
+.SFeliciaZdj{
+  width: 250px;
+  height: 250px;
+  border-radius: 25px;
+  margin-top:100px;
+  margin-left:25px;
+}
+.SFeopis{
+  font-size:40px;
+  margin-left:25%;
+  display: flex;
+  justify-content: center;
+  margin-top:-310px;
+}
